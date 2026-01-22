@@ -1,4 +1,4 @@
-# Partner-Enablement-Playbook# Partner Development & Enablement Playbook 🤝
+# Partner Development & Enablement Playbook 🤝
 
 This repository outlines a technical framework for architecting a **Partner-First GTM strategy**. It focuses on the transition from manual relationship management to an automated "Ecosystem-Led Growth" (ELG) engine.
 
